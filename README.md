@@ -39,7 +39,7 @@ Comprehensive collection of algorithms and data structures
 - Graph algorithms (BFS, DFS, Dijkstra)
 - Dynamic programming solutions
 - Multiple language implementations  
-→ View Repo: https-github.com-mahdi-kammoun-algorithm-library
+→ View Repo: [https-github.com-mahdi-kammoun-algorithm-library](https://github.com/madee16/https-github.com-mahdi-kammoun-algorithm-library)
 
 ### 2) Operations Research Solver 🔗
 Linear programming & optimization toolkit

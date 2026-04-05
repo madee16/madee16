@@ -54,7 +54,7 @@ High-quality solutions with complexity analysis
 - LeetCode, HackerRank, Codeforces
 - Detailed explanations
 - Time/space complexity analysis  
-→ View Repo: https://github.com/jalel-masmoudi/competitive-programming
+→ View Repo: [https://github.com/jalel-masmoudi/competitive-programming](https://github.com/madee16/competitive)
 
 ### 4) Database Management System 🔗
 Full-stack database project

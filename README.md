@@ -62,7 +62,7 @@ Full-stack database project
 - Advanced SQL queries
 - ER diagrams
 - Backend integration  
-→ View Repo: https://github.com/jalel-masmoudi/database-management-system
+→ View Repo: (https://github.com/madee16/databasedb)
 
 ### 5) Personal Portfolio Website 🔗
 Interactive web portfolio

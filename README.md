@@ -47,7 +47,7 @@ Linear programming & optimization toolkit
 - Transportation & assignment problems
 - Sensitivity analysis
 - Optimization algorithms  
-→ View Repo: https://github.com/jalel-masmoudi/operations-research-solver
+→ View Repo: [https://github.com/jalel-masmoudi/operations-research-solver](https://github.com/madee16/https-github.com-mahdi-kammoun-operations-research-optimization-solver/tree/main)
 
 ### 3) Competitive Programming Solutions 🔗
 High-quality solutions with complexity analysis

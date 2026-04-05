@@ -105,7 +105,6 @@ Interactive web portfolio
 ## 🤝 Connect With Me
 - Email: mkammoun75@gmail.com
 - LinkedIn: www.linkedin.com/in/mahdi-kammoun-066a7a338
-- Website: Personal Portfolio
 - GitHub: Active in discussions and issues
 
 ---

@@ -30,23 +30,15 @@ My interests include artificial intelligence, backend architecture, system desig
 
 ### Social Selling Assistant
 
-AI-powered sales and customer engagement assistant integrated with Meta platforms (WhatsApp and Messenger).
-
-Features include automated conversational workflows, intelligent lead qualification, and backend integrations designed to streamline social commerce.
+AI-powered social commerce platform built for Tunisian businesses to automate customer engagement and simplify online sales. Integrates WhatsApp, Messenger, and WATI with a multilingual conversational assistant that answers customer questions, recommends products, and facilitates order creation. Includes product catalog management, order tracking, conversation management, data imports, and sales analytics.
 
 ### Kammoun Lighting
 
-Modern full-stack web platform and digital showroom built with React, Vite, and Supabase.
-
-Features a minimalist gallery experience, dynamic product catalog management, brand filtering, and a custom administration interface with data import/export capabilities.
+Full-stack e-commerce website and digital showroom for a lighting business, built with React, Vite, and Supabase. Features a modern, minimalist product gallery, dynamic catalog browsing, brand filtering, and a custom admin dashboard for managing products and importing/exporting catalog data.
 
 ### DevPack
 
-Developer toolkit and productivity suite designed to streamline project setups, automate repetitive workflows, and centralize essential engineering utilities.
-
-### Algorithm Library
-
-A collection of algorithms and data structures implemented with explanations and complexity analysis.
+Developer productivity platform designed to simplify repetitive development tasks and streamline project workflows. Focuses on bringing practical engineering utilities and project setup tools into one centralized workspace, reducing manual configuration and helping developers get started faster.
 
 ---
 

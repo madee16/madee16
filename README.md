@@ -1,126 +1,122 @@
-# 👋 Hello! I'm Mahdi Kammoun
-Computer Science Student | Operations Research Enthusiast | Problem Solver  
-📍 North American University of Sfax, Tunisia  
-🎓 Age: 20 | Passionate about Algorithms, Optimization & Competitive Programming
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+# Mahdi Kammoun
+
+Building intelligent software.
+
+AI Engineering  
+Full Stack Development  
+Backend Systems  
+Developer Tools
+
+</div>
 
 ---
 
-## 🎯 About Me
-I'm a computer science student passionate about algorithms, operations research, and problem-solving. I love diving deep into complex problems, optimizing systems, and building elegant solutions. My journey explores the beautiful intersection of theoretical computer science and practical applications.
+## About
 
-**What drives me**
-- Understanding the "why" behind algorithms
-- Optimizing solutions for maximum efficiency
-- Solving complex real-world problems
-- Continuous learning and growth
+Computer Science student at the International Institute of Technology (IIT) — North American Private University in Sfax, Tunisia.
 
----
+I build AI-powered applications and full stack systems focused on automation, productivity, and solving real-world problems.
 
-### 🗣️ Programming Languages
-
-
-### 🎯 Core Competencies
-| Category | Skills |
-|---|---|
-| Algorithms | Sorting, Searching, Graph Algorithms, Dynamic Programming, Greedy Algorithms |
-| Operations Research | Linear Programming, Simplex Method, Transportation Problems, Optimization |
-| Data Structures | Arrays, Linked Lists, Trees, Graphs, Hash Tables, Heaps, Stacks, Queues |
-| Database | SQL, Database Design, ER Models, Normalization, Relational Databases |
-| Web Dev | HTML, CSS, JavaScript, Responsive Design |
-| Competitive Programming | Problem-solving, Algorithm Analysis, Time/Space Optimization |
+My interests include artificial intelligence, backend architecture, system design, algorithms, and creating software that is both useful and scalable.
 
 ---
 
-## 📂 Featured Projects
+## Projects
 
-### 1) Algorithm Library 🔗
-Comprehensive collection of algorithms and data structures
-- Sorting algorithms (Quick, Merge, Heap)
-- Graph algorithms (BFS, DFS, Dijkstra)
-- Dynamic programming solutions
-- Multiple language implementations  
-→ View Repo: [https-github.com-mahdi-kammoun-algorithm-library](https://github.com/madee16/https-github.com-mahdi-kammoun-algorithm-library)
+### Social Selling Assistant
 
-### 2) Operations Research Solver 🔗
-Linear programming & optimization toolkit
-- Simplex method implementation
-- Transportation & assignment problems
-- Sensitivity analysis
-- Optimization algorithms  
-→ View Repo: https://github.com/madee16/https-github.com-mahdi-kammoun-operations-research-optimization-solver
-### 3) Competitive Programming Solutions 🔗
-High-quality solutions with complexity analysis
-- 50+ problems solved
-- LeetCode, HackerRank, Codeforces
-- Detailed explanations
-- Time/space complexity analysis  
-→ View Repo: (https://github.com/madee16/competitive)
+AI-powered sales and customer engagement assistant integrated with Meta platforms (WhatsApp and Messenger).
 
-### 4) Database Management System 🔗
-Full-stack database project
-- Database schema design
-- Advanced SQL queries
-- ER diagrams
-- Backend integration  
-→ View Repo: (https://github.com/madee16/databasedb)
+Features include automated conversational workflows, intelligent lead qualification, and backend integrations designed to streamline social commerce.
 
-### 5) Personal Portfolio Website 🔗
-Interactive web portfolio
-- Projects showcase
-- Skills highlight
-- Contact form
-- Responsive design  
-→ View Repo: (https://github.com/madee16/portfoliowebsite)
+### Kammoun Lighting
+
+Modern full-stack web platform and digital showroom built with React, Vite, and Supabase.
+
+Features a minimalist gallery experience, dynamic product catalog management, brand filtering, and a custom administration interface with data import/export capabilities.
+
+### DevPack
+
+Developer toolkit and productivity suite designed to streamline project setups, automate repetitive workflows, and centralize essential engineering utilities.
+
+### Algorithm Library
+
+A collection of algorithms and data structures implemented with explanations and complexity analysis.
 
 ---
 
-## 🏆 Achievements & Learning
-- Strong foundation in algorithms and data structures
-- Understanding of operations research principles
-- Experience with competitive programming
-- Full-stack development basics
-- Database design and SQL expertise  
-🎯 Currently exploring: Advanced algorithms, System design
+## Technologies
+
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,react,nextjs,nodejs,fastapi,tailwind,postgres,mongodb,supabase,docker,git,github,linux,vscode&perline=10" />
+</a>
+</p>
 
 ---
 
-## 📊 GitHub Overview
-- Total Repositories: 5+ active projects
-- Primary Languages: Python, C++, SQL, JavaScript
-- Focus Areas: Algorithms, Optimization, Problem-solving
-- Community Contribution: Open to collaboration!
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madee16&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madee16&theme=github_dark" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madee16&theme=github_dark" width="45%" />
+</p>
 
 ---
 
-## 🎓 What I'm Currently Learning
-- Advanced data structures and algorithms
-- Distributed systems design
-- Software architecture patterns
-- Cloud computing fundamentals
-- Machine learning basics
+## Currently Exploring
+
+Large Language Models
+
+AI Agents & Multi-Agent Orchestration
+
+Retrieval Augmented Generation
+
+Distributed Systems
+
+Cloud Architecture
+
+Open Source Development
 
 ---
 
-## 🤝 Connect With Me
-- Email: mkammoun75@gmail.com
-- LinkedIn: www.linkedin.com/in/mahdi-kammoun-066a7a338
-- GitHub: Active in discussions and issues
+## Connect
+
+<p align="center">
+
+<a href="mailto:mkammoun75@gmail.com">
+<img src="https://img.shields.io/badge/Email-mkammoun75%40gmail.com-black?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://www.linkedin.com/in/mahdi-kammoun-066a7a338">
+<img src="https://img.shields.io/badge/LinkedIn-Mahdi%20Kammoun-black?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/madee16">
+<img src="https://img.shields.io/badge/GitHub-madee16-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-black?style=for-the-badge&logo=vercel">
+</a>
+
+</p>
 
 ---
 
-## 📈 Current Goals
-- Master advanced algorithms
-- Contribute to open-source projects
-- Build impressive portfolio projects
-- Secure internship opportunities
-- Prepare for technical interviews
-- Participate in coding competitions
+<div align="center">
 
----
+Engineering intelligent systems designed for real-world impact.
 
-## 💡 Philosophy
-"Code is poetry, algorithms are symphonies, and optimization is the art of elegance."
+</div>
 
-I believe in writing clean, efficient, and well-documented code. Every problem is an opportunity to learn, and every line of code tells a story.
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

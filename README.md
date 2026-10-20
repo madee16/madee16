@@ -66,11 +66,6 @@ A collection of algorithms and data structures implemented with explanations and
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madee16&theme=github_dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madee16&theme=github_dark" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madee16&theme=github_dark" width="45%" />
-</p>
-
 ---
 
 ## Currently Exploring

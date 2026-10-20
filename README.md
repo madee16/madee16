@@ -54,8 +54,15 @@ Developer productivity platform designed to simplify repetitive development task
 
 ## GitHub Analytics
 
+## GitHub Analytics
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madee16&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=madee16&theme=github-dark-blue&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=madee16&theme=github_dark" width="45%" />
 </p>
 
 ---

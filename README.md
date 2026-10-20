@@ -52,7 +52,6 @@ Developer productivity platform designed to simplify repetitive development task
 
 ---
 
-## GitHub Analytics
 
 ## GitHub Analytics
 

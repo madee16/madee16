@@ -31,6 +31,7 @@ My interests include artificial intelligence, backend architecture, system desig
 ### Social Selling Assistant
 
 AI-powered social commerce platform built for Tunisian businesses to automate customer engagement and simplify online sales. Integrates WhatsApp, Messenger, and WATI with a multilingual conversational assistant that answers customer questions, recommends products, and facilitates order creation. Includes product catalog management, order tracking, conversation management, data imports, and sales analytics.
+**Repository:** [madee16/social-selling-assistant](https://github.com/madee16/social-selling-assistant)
 
 ### Kammoun Lighting
 

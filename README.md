@@ -7,9 +7,9 @@
 
 Building intelligent software.
 
-AI Engineering  
-Full Stack Development  
-Backend Systems  
+AI Engineering
+Full Stack Development
+Backend Systems
 Developer Tools
 
 </div>
@@ -18,7 +18,7 @@ Developer Tools
 
 ## About
 
-Computer Science student at the International Institute of Technology (IIT) — North American Private University in Sfax, Tunisia.
+Computer Science student at the International Institute of Technology (IIT), North American Private University in Sfax, Tunisia.
 
 I build AI-powered applications and full stack systems focused on automation, productivity, and solving real-world problems.
 
@@ -27,6 +27,16 @@ My interests include artificial intelligence, backend architecture, system desig
 ---
 
 ## Projects
+
+### NLPulse
+
+Intelligent Text Analysis API, NLP as a Service. Provides 3 core NLP capabilities, sentiment analysis, named entity recognition and zero-shot text classification, plus keyword extraction, text summarization and LLM-powered structured extraction via Ollama. Built with Python, FastAPI, PostgreSQL, SQLAlchemy and Hugging Face Transformers, with API key authentication, rate limiting and monthly quotas. Validated by 133 passing automated tests. Milestones M1 to M6 complete, out of a 9-milestone roadmap.
+**Repository:** [madee16/nlpulse](https://github.com/madee16/nlpulse)
+
+### SemanticVault
+
+Semantic Search as a Service, built with Python, FastAPI and PostgreSQL with pgvector. Upload unstructured documents (PDF, Markdown, TXT), generate vector embeddings with local Ollama models, and retrieve semantically relevant information with hybrid RRF ranking, HNSW indexing and metadata filtering. Includes multi-tenant developer API keys with constant-time verification, sliding-window rate limits and atomic monthly quotas. Test suite: 59 passed, 2 pgvector tests skipped.
+**Repository:** [madee16/semantic-vault](https://github.com/madee16/semantic-vault)
 
 ### Social Selling Assistant
 
@@ -37,12 +47,12 @@ AI-powered social commerce platform built for Tunisian businesses to automate cu
 
 Full-stack e-commerce website and digital showroom for a lighting business, built with React, Vite, and Supabase. Features a modern, minimalist product gallery, dynamic catalog browsing, brand filtering, and a custom admin dashboard for managing products and importing/exporting catalog data.
 website : https://kammoun-lighting-vl1t.vercel.app
+**Repository:** [madee16/kammoun-lighting](https://github.com/madee16/kammoun-lighting)
 
 ### DevPack
 
 Developer productivity platform designed to simplify repetitive development tasks and streamline project workflows. Focuses on bringing practical engineering utilities and project setup tools into one centralized workspace, reducing manual configuration and helping developers get started faster.
 website : https://www.devpack.com.tn
-
 
 ---
 
@@ -54,18 +64,19 @@ website : https://www.devpack.com.tn
 </a>
 </p>
 
----
+AI stack: RAG, LLM, pgvector, Ollama, n8n, Hugging Face Transformers
 
+---
 
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madee16&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madee16&theme=github\_dark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=madee16&theme=github-dark-blue&hide_border=true" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=madee16&theme=github_dark" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=madee16&theme=github-dark-blue&hide\_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=madee16&theme=github\_dark" width="45%" />
 </p>
 
 ---
@@ -107,6 +118,7 @@ Open Source Development
 </a>
 
 </p>
+
 ---
 
 <div align="center">

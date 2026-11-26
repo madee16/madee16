@@ -1,130 +1,81 @@
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-# Mahdi Kammoun
-
-Building intelligent software.
-
-AI Engineering
-Full Stack Development
-Backend Systems
-Developer Tools
-
-</div>
-
----
-
-## About
-
-Computer Science student at the International Institute of Technology (IIT), North American Private University in Sfax, Tunisia.
-
-I build AI-powered applications and full stack systems focused on automation, productivity, and solving real-world problems.
-
-My interests include artificial intelligence, backend architecture, system design, algorithms, and creating software that is both useful and scalable.
-
----
-
-## Projects
-
-### NLPulse
-
-Intelligent Text Analysis API, NLP as a Service. Provides 3 core NLP capabilities, sentiment analysis, named entity recognition and zero-shot text classification, plus keyword extraction, text summarization and LLM-powered structured extraction via Ollama, each available individually and in batch mode. Built with Python, FastAPI, PostgreSQL, SQLAlchemy and Hugging Face Transformers, with API key authentication, granular scope authorization, rate limiting and atomic monthly quotas. Includes a local React and Vite playground for trying the API. Covered by 219 automated tests. All 9 milestones of the roadmap complete.
-**Repository:** [madee16/nlpulse](https://github.com/madee16/nlpulse)
-
-### SemanticVault
-
-Semantic Search as a Service, built with Python, FastAPI and PostgreSQL with pgvector. Upload unstructured documents (PDF, Markdown, TXT), generate vector embeddings with local Ollama models, and retrieve semantically relevant information with hybrid RRF ranking, HNSW indexing and metadata filtering. Includes multi-tenant developer API keys with constant-time verification, sliding-window rate limits and atomic monthly quotas. Test suite: 59 passed, 2 pgvector tests skipped.
-**Repository:** [madee16/semantic-vault](https://github.com/madee16/semantic-vault)
-
-### Social Selling Assistant
-
-AI-powered social commerce platform built for Tunisian businesses to automate customer engagement and simplify online sales. Integrates WhatsApp, Messenger, and WATI with a multilingual conversational assistant that answers customer questions, recommends products, and facilitates order creation. Includes product catalog management, order tracking, conversation management, data imports, and sales analytics.
-**Repository:** [madee16/social-selling-assistant](https://github.com/madee16/social-selling-assistant)
-
-### Kammoun Lighting
-
-Full-stack e-commerce website and digital showroom for a lighting business, built with React, Vite, and Supabase. Features a modern, minimalist product gallery, dynamic catalog browsing, brand filtering, and a custom admin dashboard for managing products and importing/exporting catalog data.
-website : https://kammoun-lighting-vl1t.vercel.app
-**Repository:** [madee16/kammoun-lighting](https://github.com/madee16/kammoun-lighting)
-
-### DevPack
-
-Developer productivity platform designed to simplify repetitive development tasks and streamline project workflows. Focuses on bringing practical engineering utilities and project setup tools into one centralized workspace, reducing manual configuration and helping developers get started faster.
-website : https://www.devpack.com.tn
-
----
-
-## Technologies
-
 <p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,react,nextjs,nodejs,fastapi,tailwind,postgres,mongodb,supabase,docker,git,github,linux,vscode&perline=10" />
-</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:111827,100:134e4a&height=180&section=header&text=Mahdi%20Kammoun&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=twinkling" alt="Mahdi Kammoun" width="100%" />
 </p>
-
-AI stack: RAG, LLM, pgvector, Ollama, n8n, Hugging Face Transformers
-
----
-
-## GitHub Analytics
-
+<br>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madee16&theme=github\_dark" />
+  <a href="https://www.mahdikammoun.me">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00E5C3&center=true&vCenter=true&width=700&lines=AI+Engineering;Full-Stack+Developer;CS+student+at+IIT+Sfax;Guitarist+%26+Guitar+Teacher" alt="AI Engineering, Full-Stack Developer, CS student at IIT Sfax, Guitarist and Guitar Teacher" />
+  </a>
 </p>
-
+<br>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=madee16&theme=github-dark-blue&hide\_border=true" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=madee16&theme=github\_dark" width="45%" />
+  <a href="https://www.mahdikammoun.me">mahdikammoun.me</a> ·
+  <a href="https://www.linkedin.com/in/mahdi-kammoun-066a7a338">LinkedIn</a> ·
+  <a href="mailto:mkammoun75@gmail.com">mkammoun75@gmail.com</a>
 </p>
-
----
-
-## Currently Exploring
-
-Large Language Models
-
-AI Agents & Multi-Agent Orchestration
-
-Retrieval Augmented Generation
-
-Distributed Systems
-
-Cloud Architecture
-
-Open Source Development
-
----
-
-## Connect
-
+<br>
+<br>
+<h2>About</h2>
+<p>AI and full-stack developer in Sfax, Tunisia.</p>
+<ul>
+  <li>Third-year Bachelor's in Computer Science at IIT Sfax (International Institute of Technology, part of North American University of Sfax), Sep 2024 to Jun 2027.</li>
+  <li>Software Engineering Intern at Web Waves Agency, Jul to Sep 2026, where I built an AI conversational commerce assistant for WhatsApp and Messenger.</li>
+  <li>Guitarist and private guitar instructor since 2024.</li>
+</ul>
+<br>
+<br>
+<h2>Stack</h2>
+<br>
 <p align="center">
-
-<a href="mailto:mkammoun75@gmail.com">
-<img src="https://img.shields.io/badge/Email-mkammoun75%40gmail.com-black?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://www.linkedin.com/in/mahdi-kammoun-066a7a338">
-<img src="https://img.shields.io/badge/LinkedIn-Mahdi%20Kammoun-black?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://github.com/madee16">
-<img src="https://img.shields.io/badge/GitHub-madee16-black?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://www.mahdikammoun.me">
-<img src="https://img.shields.io/badge/Portfolio-mahdikammoun.me-black?style=for-the-badge&logo=vercel">
-</a>
-
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,ts,react,nextjs,nodejs,supabase,docker,git,tailwind,linux&theme=dark" alt="Python, FastAPI, PostgreSQL, TypeScript, React, Next.js, Node.js, Supabase, Docker, Git, Tailwind CSS, Linux" />
 </p>
-
----
-
-<div align="center">
-
-Engineering intelligent systems designed for real-world impact.
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<br>
+<h2>Featured projects</h2>
+<br>
+<p>
+  <a href="https://github.com/madee16/nlpulse"><strong>nlpulse</strong></a>: NLP as a Service. Sentiment analysis, named entity recognition, zero-shot classification, keyword extraction, summarization and Ollama-powered structured extraction, each in single and batch mode, behind API key auth with granular scopes, rate limiting and atomic monthly quotas. All 9 roadmap milestones complete, 219 automated tests.
+</p>
+<br>
+<p>
+  <a href="https://github.com/madee16/semantic-vault"><strong>semantic-vault</strong></a>: Semantic Search as a Service. Documents (PDF, Markdown, TXT) are embedded with local Ollama models into PostgreSQL with pgvector, and retrieved with hybrid RRF ranking, HNSW indexing and metadata filtering. Multi-tenant API keys with quotas and rate limits. 59 tests passed, 2 pgvector tests skipped.
+</p>
+<br>
+<p>
+  <a href="https://github.com/madee16/social-selling-assistant"><strong>social-selling-assistant</strong></a>: Multilingual AI commerce assistant for WhatsApp, Messenger and WATI, built at Web Waves Agency. Handles customer conversations, product catalog, order creation and sales analytics for Tunisian businesses.
+</p>
+<br>
+<p>
+  <a href="https://github.com/madee16/kammoun-lighting"><strong>kammoun-lighting</strong></a>: E-commerce website and digital showroom for a lighting business, built with React, Vite and Supabase. Dynamic catalog with brand filtering and a custom admin dashboard. Live at <a href="https://kammoun-lighting-vl1t.vercel.app">kammoun-lighting-vl1t.vercel.app</a>.
+</p>
+<br>
+<p>
+  <a href="https://www.devpack.com.tn"><strong>DevPack</strong></a>: Developer productivity platform that brings project setup and everyday engineering utilities into one workspace, reducing manual configuration.
+</p>
+<br>
+<br>
+<h2>Activity</h2>
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=madee16&show_icons=true&theme=tokyonight&border_color=30363d&bg_color=0d1117&hide_rank=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madee16&layout=compact&theme=tokyonight&border_color=30363d&bg_color=0d1117" alt="Top languages" />
+</p>
+<br>
+<p align="center">
+  <img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=madee16&theme=tokyo-night&bg_color=0d1117&hide_border=true&area=true" alt="GitHub activity graph" />
+</p>
+<br>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=madee16&theme=tokyonight&border=30363d&background=0D1117" alt="GitHub streak" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madee16&theme=github_dark" alt="Profile details and contribution graph" />
+</p>
+<br>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=madee16&theme=github_dark&utcOffset=1" alt="Productive time" />
+</p>
+<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:111827,100:134e4a&height=120&section=footer" alt="" width="100%" />
+</p>

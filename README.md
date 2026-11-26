@@ -30,7 +30,7 @@ My interests include artificial intelligence, backend architecture, system desig
 
 ### NLPulse
 
-Intelligent Text Analysis API, NLP as a Service. Provides 3 core NLP capabilities, sentiment analysis, named entity recognition and zero-shot text classification, plus keyword extraction, text summarization and LLM-powered structured extraction via Ollama. Built with Python, FastAPI, PostgreSQL, SQLAlchemy and Hugging Face Transformers, with API key authentication, rate limiting and monthly quotas. Validated by 133 passing automated tests. Milestones M1 to M6 complete, out of a 9-milestone roadmap.
+Intelligent Text Analysis API, NLP as a Service. Provides 3 core NLP capabilities, sentiment analysis, named entity recognition and zero-shot text classification, plus keyword extraction, text summarization and LLM-powered structured extraction via Ollama, each available individually and in batch mode. Built with Python, FastAPI, PostgreSQL, SQLAlchemy and Hugging Face Transformers, with API key authentication, granular scope authorization, rate limiting and atomic monthly quotas. Includes a local React and Vite playground for trying the API. Covered by 219 automated tests. All 9 milestones of the roadmap complete.
 **Repository:** [madee16/nlpulse](https://github.com/madee16/nlpulse)
 
 ### SemanticVault
